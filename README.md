@@ -1,6 +1,6 @@
-### Hello there! My name is Diogo Ganzo! Welcome to my README <img src="https://tenor.com/view/ech-echop-lofi-echlofi-studyech-gif-16336003" width="25px">
+### Hello there! My name is Diogo Ganzo! Welcome to my README <img src="https://media4.giphy.com/media/He1ppTVuaVSCs/giphy.gif?cid=6c09b9522xt2uijfxkp4z7yfckp5smysvzal96hjfmaui0jq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="25px">
 <div>
-  <img align="right" alt="GIF" src="https://tenor.com/view/ech-echop-lofi-echlofi-studyech-gif-16336003" width="450" height="400" />
+  <img align="right" alt="GIF" src="https://media4.giphy.com/media/He1ppTVuaVSCs/giphy.gif?cid=6c09b9522xt2uijfxkp4z7yfckp5smysvzal96hjfmaui0jq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="450" height="400" />
  
   👨 **Social:** 
   
