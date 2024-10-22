@@ -1,4 +1,4 @@
-### Hello there! My name is Diogo Ganzo! Welcome to my README <img src="https://media4.giphy.com/media/He1ppTVuaVSCs/giphy.gif?cid=6c09b9522xt2uijfxkp4z7yfckp5smysvzal96hjfmaui0jq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="25px">
+### Hello there! My name is Diogo Ganzo! Welcome to my README
 <div>
   <img align="right" alt="GIF" src="https://media4.giphy.com/media/He1ppTVuaVSCs/giphy.gif?cid=6c09b9522xt2uijfxkp4z7yfckp5smysvzal96hjfmaui0jq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="450" height="400" />
  
