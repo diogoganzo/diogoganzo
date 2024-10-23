@@ -1,6 +1,6 @@
 ### Hello there! My name is Diogo Ganzo! Welcome to my README
 <div>
-  <img align="right" alt="GIF" src="https://media3.giphy.com/media/z6lKzI3wAuKbkkPZpe/giphy.gif?cid=9b38fe914qg255fya8r362mnm1rvdwxk7es859yd8r9h054c&ep=v1_gifs_username&rid=giphy.gif&ct=g" width="450" height="400" />
+  <img align="right" alt="GIF" src="https://media3.giphy.com/media/z6lKzI3wAuKbkkPZpe/giphy.gif?cid=9b38fe914qg255fya8r362mnm1rvdwxk7es859yd8r9h054c&ep=v1_gifs_username&rid=giphy.gif&ct=g" width="640" height="360" />
  
   👨 **Social:** 
   
